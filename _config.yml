@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>You've Been Caught in a Phishing Trap!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+            background-color: #f8f8f8;
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #d32f2f;
+        }
+        p {
+            font-size: 1.2em;
+            color: #333;
+            max-width: 600px;
+            margin: 20px auto;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🚨 You've Been Caught in a Phishing Trap! 🚨</h1>
+    <p>
+        This was a controlled phishing simulation conducted by students of Telecommunications and IT Security. 
+        Always be cautious when opening emails, especially those containing suspicious links or attachments.
+        Stay vigilant and protect your data!
+    </p>
+
+</body>
+</html>
 
