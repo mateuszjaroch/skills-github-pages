@@ -1,4 +1,4 @@
 ---
-title: You have clicked on a phishing link! Always be cautious with suspicious emails.
+title: 🚨 You’ve Been Caught in a Phishing Trap! 🚨
 ---
 
